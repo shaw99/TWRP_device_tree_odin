@@ -21,6 +21,6 @@ Camera  | 108MP(Primary), 13MP(Ultrawide), 8MP(Telephoto), dual LED flash, 20MP(
 ![Xiaomi MIX 4](https://fdn2.gsmarena.com/vv/pics/xiaomi/mix-4-1.jpg "Xiaomi MIX 4")
 
 
-How to build:
+## How to build:
 ```c
 cd <source-dir>; export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch twrp_odin-eng; mka bootimage
